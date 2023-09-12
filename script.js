@@ -1,6 +1,6 @@
 function firstNonRepeatedChar(str) {
-    // Write your code here
-    let a;
+    // Write your code;
+	let a=null;
        for(let i=0; i<str.length;i++){
        let cont=0;
        for(let j=0;j<str.length;j++){
