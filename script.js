@@ -12,7 +12,7 @@ for(let i=0; i<input.length;i++){
     }
     }
     if(cont==0){
-        console.log(input[i]);
+        console.log(input.charAt(i));
     }
     else{
         console.log(null);
